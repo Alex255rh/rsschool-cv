@@ -11,5 +11,5 @@
 1. [Code-basics HTML](https://code-basics.com/ru/languages/html)
 2. [Code-basics CSS](https://code-basics.com/ru/languages/css)
 
-**English:** Intermediate B1-B2
+**English:** Intermediate B2
    
