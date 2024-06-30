@@ -1,7 +1,7 @@
 # Alexander Ohrimovschi
 ## Contacts: Discord name: Alex255(@alex255rh)
 
-**My goal:** To finish the RS School course
+**My goal:** To finish the RS School course with success
 
 **Programming languages**: 
 1. HTML
